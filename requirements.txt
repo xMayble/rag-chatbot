@@ -1,0 +1,10 @@
+anthropic
+langchain
+langchain-community
+langchain-anthropic
+chromadb
+pypdf
+streamlit
+fastapi
+uvicorn
+python-dotenv
