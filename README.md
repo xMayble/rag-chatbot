@@ -2,13 +2,6 @@
 
 A full-stack AI-powered chatbot that lets you upload any PDF and ask questions about it in plain English. Built with a Retrieval-Augmented Generation (RAG) pipeline using LangChain, ChromaDB, and Anthropic's Claude LLM — deployed on AWS.
 
----
-
-## 🚀 Live Demo
-
-> API: `http://35.173.238.199:8000/docs`
-
----
 
 ## 🧠 How It Works
 
